@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SimpleEctoStateMachine
 
 **TODO: Add description**
@@ -18,7 +17,5 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/simple_ecto_state_machine](https://hexdocs.pm/simple_ecto_state_machine).
 
-=======
 # simple_ecto_state_machine
 State machine implementation compatible with Ecto 1.x
->>>>>>> 29677ac70ea1f95f9f50ef5abe8ae2dcb8ab4f3f
